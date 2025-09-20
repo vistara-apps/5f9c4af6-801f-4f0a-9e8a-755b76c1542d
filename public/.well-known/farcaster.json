@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "TuneSphere",
+    "subtitle": "Built with Zara",
+    "description": "TuneSphere is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://5f9c4af6801f4f0a9e8a755b76c1542d-d630.vercel.app",
+    "splashImageUrl": "https://5f9c4af6801f4f0a9e8a755b76c1542d-d630.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://5f9c4af6801f4f0a9e8a755b76c1542d-d630.vercel.app/image.png",
+    "tagline": "TuneSphere",
+    "screenshotUrls": [
+      "https://5f9c4af6801f4f0a9e8a755b76c1542d-d630.vercel.app/screenshot.png",
+      "https://5f9c4af6801f4f0a9e8a755b76c1542d-d630.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://5f9c4af6801f4f0a9e8a755b76c1542d-d630.vercel.app/api/webhook"
+  }
+}
