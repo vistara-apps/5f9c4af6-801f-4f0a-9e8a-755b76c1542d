@@ -100,4 +100,4 @@ export const APP_CONFIG = {
   supportedAudioFormats: ['mp3', 'wav', 'ogg'],
 };
 
-import { Track } from './types';
+import { Track, User, Playlist } from './types';
